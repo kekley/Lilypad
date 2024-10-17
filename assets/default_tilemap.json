@@ -1,0 +1,6 @@
+{
+  "tile_map_name": "default_tilemap",
+  "num_tiles": 4,
+  "texture_indices": [-1,0,1,2],
+  "tile_types": ["Empty","Solid","Liquid","Spike"]
+}
